@@ -1,5 +1,8 @@
 ### Python in Medical Science 
 
+Author: Hemant Thapa
+Email: hemantthapa1998@gmail.com
+
 ### Cancer Research
 
 https://github.com/AnalyticalHarry/MedicalResearch/blob/main/cancer.ipynb
